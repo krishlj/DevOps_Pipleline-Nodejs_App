@@ -1587,28 +1587,7 @@ Known limitations:
 - No blue-green deployment
 - No SAST, DAST, SCA, or secret scanning
 - No centralized log collection
-
----
-
-# Shift-Left Security Improvements
-
-Recommended improvements:
-
-1. Add HTTPS using an Application Load Balancer or NGINX
-2. Restrict SSH to the administrator’s trusted IP
-3. Replace direct SSH with AWS Systems Manager Session Manager
-4. Store application secrets in AWS Secrets Manager
-5. Add SAST using Semgrep or SonarQube
-6. Add SCA and container scanning using Trivy
-7. Add secret scanning using Gitleaks
-8. Add pre-commit hooks
-9. Add Jest tests and an 80% coverage threshold
-10. Add a health check after deployment
-11. Add blue-green deployment
-12. Add CloudWatch log collection
-13. Place Grafana and Prometheus behind controlled access
-14. Add an Application Load Balancer and Auto Scaling Group
-
+- 
 ---
 
 # Cleanup to Avoid AWS Charges
@@ -1660,6 +1639,6 @@ This project demonstrates:
 
 ---
 
-## Author
+## Author - github.com/krishlj
 
 Created as a hands-on DevOps, cloud, CI/CD, and monitoring learning project.
