@@ -76,7 +76,7 @@ AWS CloudWatch Monitoring
 
 Screenshots from the actual implementation are stored separately.
 
-**Evidence gallery:** nodejs-microservice-implementation-evidence
+**Evidence gallery:** [nodejs-microservice-implementation-evidence](https://github.com/krishlj/DevOps_Pipleline-Nodejs_App/tree/e60e52232dd8a1a22e00934fca9a7d794ec222f8/nodejs-microservice-implementation-evidence)
 
 Coverage includes AWS EC2, Terraform, IAM/AWS CLI, Docker, Docker Hub, GitHub Actions CI/CD, Node.js, Prometheus, Grafana, CloudWatch, Wazuh SOC, and the AWS SOC lab topology.
 
