@@ -1,4 +1,5 @@
-<img width="121" height="150" alt="devops_architecture_final" src="https://github.com/user-attachments/assets/7ff958f6-dc9e-4464-b3e7-8f6bc41c46ed" />
+<img width="907" height="897" alt="node js topology" src="https://github.com/user-attachments/assets/f0996639-f50f-47a6-ac36-70bbe212a78a" />
+
 # Production-Ready Node.js Microservice on AWS EC2
 
 ## Project Overview
