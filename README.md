@@ -1,4 +1,3 @@
-<img width="907" height="897" alt="node js topology" src="https://github.com/user-attachments/assets/f0996639-f50f-47a6-ac36-70bbe212a78a" />
 
 # Production-Ready Node.js Microservice on AWS EC2
 
