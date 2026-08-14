@@ -1,3 +1,5 @@
+<img width="1035" height="1024" alt="Node js_Final_Topology" src="https://github.com/user-attachments/assets/68c1d27d-b73a-47eb-81da-122a321a1769" />
+
 
 # Production-Ready Node.js Microservice on AWS EC2
 
